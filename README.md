@@ -1,4 +1,4 @@
-# Market-Application
+# Store-Application
 it's an java desktop application with database for market application 
 How it Works ? 
 1- Download the project 
