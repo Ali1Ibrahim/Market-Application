@@ -1,5 +1,5 @@
-# Store-Application
-it's an java desktop application with database for market application 
+# WareHouse-Application
+it's an java desktop application with database for WareHouse  
 How it Works ? 
 1- Download the project 
 2- open eclipse or netbeanse 
